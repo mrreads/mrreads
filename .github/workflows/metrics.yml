@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_display: large
           user: mrreads
+          repositories_skipped: unity-sonic2d_project, godot-sonic, unity-metroidvania, unity-boogerman, unity-horror_project
           template: classic
           base: activity, repositories
           base_indepth: yes
