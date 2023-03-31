@@ -38,3 +38,6 @@ My name is Alexander, and I am a Frontend Developer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="52" alt="illustrator logo" title="Adobe Illustrator" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo" title="Adobe Photoshop" />
 </div>
+
+## Stats
+![Metrics](https://metrics.lecoq.io/mrreads?template=classic&base.indepth=true&repositories.forks=true&base.header=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=Europe%2FMinsk)
