@@ -1,17 +1,6 @@
 # Hi 👋
 
-My name is Alexander, and I am a Frontend Developer.
-
-## About me 
-
-💻 My primary tool is JavaScript, and I am experienced in using React and Next.js.
-
-🎨 I love creating beautiful designs and know how to create responsive interfaces.
-
-🔧 I am also familiar with image and video editing tools such as Adobe Photoshop, After Effects, and Blender.
-
-📚 In my free time, I am learning for creating 3D models and video editing.
-
+My name is Alexander, and I am a Fullstack/Frontend Developer.
 
 ## Skills
 
